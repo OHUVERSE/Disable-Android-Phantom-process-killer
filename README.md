@@ -1,4 +1,4 @@
-# **Disable-Android-Phantom-process-killer**
+# **Disable-Android-Phantom-Process-Killer**
 ### **Prevent Signal 9 (SIGKILL) in Termux on Android**  
 ### *Increase Background Process Limit & Stop Android’s Aggressive Process Killing*  
 
